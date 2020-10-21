@@ -1,0 +1,13 @@
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csprojAssemblyReference.cache
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+D:\Users\noushin\source\repos\Assignment_1\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
